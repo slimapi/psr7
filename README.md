@@ -1,3 +1,5 @@
+# Forked version of Slim PSR-7, see https://github.com/slimphp/Slim-Psr7/pull/160
+
 # Slim PSR-7
 
 Strict PSR-7 implementation used by the [Slim Framework](http://www.slimframework.com/), but you may use it
@@ -10,7 +12,7 @@ separately with any framework compatible with the [PSR-7 standard](https://www.p
 
 ## Installation
 
-It's recommended that you use [Composer](https://getcomposer.org) to install 
+It's recommended that you use [Composer](https://getcomposer.org) to install
 this library.
 
 ```bash
@@ -36,7 +38,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Security
 
-If you discover security related issues, please email security@slimframework.com 
+If you discover security related issues, please email security@slimframework.com
 instead of using the issue tracker.
 
 ## Credits
@@ -49,5 +51,5 @@ instead of using the issue tracker.
 
 ## License
 
-This component is licensed under the MIT license. See [License File](LICENSE.md) 
+This component is licensed under the MIT license. See [License File](LICENSE.md)
 for more information.
